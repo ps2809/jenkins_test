@@ -3,3 +3,5 @@ def new(s):
 
 new("hello welcome to git")
 new('this is second commit')
+new('merging with master')
+
